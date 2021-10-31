@@ -1,0 +1,11 @@
+str = input("Enter the string is: ")
+print("String is :", str)
+count=()
+for x in str:
+    if  x in coun.keys():
+        count[x]+=1
+    else:
+        count[x]=1
+
+
+print(count)
